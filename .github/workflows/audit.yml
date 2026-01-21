@@ -1,0 +1,21 @@
+name: Auditoria Estatica
+
+on: [push, pull_request]
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '8.0.x'
+
+    - name: Ejecutar Auditoría
+      run: |
+        cd DemoAuditApp
+        dotnet restore
+        dotnet build
