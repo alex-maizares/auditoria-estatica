@@ -1,0 +1,14 @@
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\bin\Debug\net8.0\DemoAuditApp.exe
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\bin\Debug\net8.0\DemoAuditApp.deps.json
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\bin\Debug\net8.0\DemoAuditApp.runtimeconfig.json
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\bin\Debug\net8.0\DemoAuditApp.dll
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\bin\Debug\net8.0\DemoAuditApp.pdb
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\obj\Debug\net8.0\DemoAuditApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\obj\Debug\net8.0\DemoAuditApp.AssemblyInfoInputs.cache
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\obj\Debug\net8.0\DemoAuditApp.AssemblyInfo.cs
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\obj\Debug\net8.0\DemoAuditApp.csproj.CoreCompileInputs.cache
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\obj\Debug\net8.0\DemoAuditApp.dll
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\obj\Debug\net8.0\refint\DemoAuditApp.dll
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\obj\Debug\net8.0\DemoAuditApp.pdb
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\obj\Debug\net8.0\DemoAuditApp.genruntimeconfig.cache
+E:\AuditoriaSistemasI\auditoria-estatica\DemoAuditApp\obj\Debug\net8.0\ref\DemoAuditApp.dll
